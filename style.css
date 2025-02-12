@@ -1,0 +1,116 @@
+
+
+@media only screen and (max-width:400px)
+{
+    body
+    {
+        font-family: Arial,sans-serif;
+        font-size: 20px;
+        font-weight: 100;
+        background: #EAFAEA;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+    }
+    nav
+    {
+        background: black;
+        padding: 10px;
+    }
+    nav a
+    {
+        color:white;
+        text-decoration: none;
+        margin:10px;
+        background: #B771E5;
+        padding: 4px;
+        box-shadow:  0 0 10px rgba(0,0,0,0.1);
+        border-radius: 10px;
+    }
+    .red{background: red;}
+    nav a:hover
+    {
+        background: #77B254;
+        transition: all 2s ease-in-out;
+    }
+    .container span
+    {
+        display: block;
+    }
+    .container
+    {
+        vertical-align: middle;
+        display: inline-block;
+    }
+    .container .numerator
+    {
+        border-bottom: 1px solid black;
+        text-align: center;
+    }
+    .item
+    {
+        padding: 10px;
+    }
+    .container .denominator
+    {
+        text-align: center;
+    }
+}
+@media only screen and (max-width:768px)
+{
+    body
+    {
+        font-family: Arial,sans-serif;
+        font-size: 20px;
+        font-weight: 100;
+        background: #EAFAEA;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+    }
+    nav
+    {
+        background: black;
+        padding: 10px;
+    }
+    nav a
+    {
+        color:white;
+        text-decoration: none;
+        margin:10px;
+        background: #B771E5;
+        padding: 4px;
+        box-shadow:  0 0 10px rgba(0,0,0,0.1);
+        border-radius: 10px;
+    }
+    .red{background: red;}
+    nav a:hover
+    {
+        background: #77B254;
+        transition: all 2s ease-in-out;
+    }
+    .container span
+    {
+        display: block;
+    }
+    .container
+    {
+        vertical-align: middle;
+        display: inline-block;
+    }
+    .container .numerator
+    {
+        border-bottom: 1px solid black;
+        text-align: center;
+    }
+    .item
+    {
+        padding: 10px;
+    }
+    .container .denominator
+    {
+        text-align: center;
+    }
+}
